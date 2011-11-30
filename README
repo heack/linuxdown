@@ -1,0 +1,4 @@
+In order to install this software named linuxdown made by kongyang(Shanghai Jiao Tong University, China), you must do the following steps.
+tar -xf linuxdown.tar
+make
+That's ok.
